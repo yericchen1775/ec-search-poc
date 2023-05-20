@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ec-search-poc'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_49A6AA533CFB449A83C672A13C720220 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EA5066C520E14BF29CF0A96FA6A8A527 }}
           package: .
